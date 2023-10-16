@@ -2,8 +2,8 @@
 title: Was ist Geographie?
 toc: true 
 header: 
-  image: "/assets/images/climate-splash.jpg"
-  caption: 'Photo: **Rieke Ammoneit**'
+  image: "/assets/images/Raum.jpg"
+  caption: 'Photo: [**Environmental Informatics**](https://www.flickr.com/photos/environmentalinformatics-marburg/30053438721/in/album-72157633683022206/)'
 ---
 
 
