@@ -32,11 +32,11 @@ Anschließend werden Sie an drei Blocktagen Unterricht konzipieren.
 
 ## Ziele
 Am Ende dieses Moduls können Sie
-* die Spannung von Fachwissenschaft und Schulfach, reflektiertem Wissen und Alltagswissen reflektieren
-* Leitideen des Erdkundeunterrichts diskutieren
-* Raum- und Basiskonzepte zur didaktische Reduktion und Rekonstruktion anwenden
-* eine Sachanlyse schreiben
-* eine Unterrichtsstunde planen
+* die Bedeutung von Basiskonzepten als Grundlage für das Handeln in der fachlichen Bildung zu kennen und zu reflektieren sowie
+* die Komplexität von geographischen Themen im Unterricht bewusst zu reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen zu können (Praktikum!) 
+* Konzeptionell geographische Denkweisen zu verstehen 
+* das damit gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess von Lehrgegenständen zu überführen
+
 
 ## Kursmerkmale
 6 ECTS im Umfang als Präsenzkurs, der Anwesenheit voraussetzt, sowohl während des Semesters als auch während der Blocktage.
