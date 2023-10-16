@@ -40,11 +40,21 @@ Am Ende dieses Moduls können Sie
 
 ## Kursmerkmale
 6 ECTS im Umfang als Präsenzkurs, der Anwesenheit voraussetzt, sowohl während des Semesters als auch während der Blocktage.
+Vor- und Nachbereiteitung des Seminars inklusive Studienleistung sollten insgesamt 90 h umfassen.
+Die Vorbereitung der Prüfungsleistung sollte weitere 30 h umfassen. 
+
+## Teilnahmevoraussetzungen
+* Mindesten 24 LP abgeschlossen
+* Einführung in die Fachdidaktik
+* Einführung in das Studium der Geographie für Studierende des Leramts
+* Praxis Start (EWL 3)
+* ProwiWerk im anderen Fach und ProfiPraxis (EWL P1) müssen parallel besucht werden
 
 ## Studien- und Prüfungsleistung
 Die Studienleistung wird während der Blocktage erbacht
 Die Prüfungsleistung wird in Form eines schriftlichen Portfolios erbacht, das eine vollständige Sachanalyse umfasst.
 Die Studeinleitung soll und die Prüfungsleistung kann in Partnerarbeit erbacht werden.
+
 
 
 
