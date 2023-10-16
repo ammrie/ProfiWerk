@@ -1,5 +1,5 @@
 ---
-title: Modellieren mit Netlogo
+title: Was ist Geographie?
 toc: true 
 header: 
   image: "/assets/images/climate-splash.jpg"
@@ -7,12 +7,13 @@ header:
 ---
 
 
-Im ersten Arbeitsblock sollen Sie die Modellierung als fachliche Methode durchdringen. Sie sollen dafür ein NetLogo Modell beschreiben und zur Beantwortung einer Fragestellung in die Anwendung bringen.
+Nachdem Sie sich mit Ihrer persönlichen Motivation Geographielehrkaft zu werden auseinandergesetzt haben. Stellen wir uns nun gemeinsam der Frage: Was ist Geographie? D.h. wir setzen uns mit der Fachlichkeit der Geographie zunächst in der Übersicht auseinander.
 
 <!--more-->
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/environmentalinformatics-marburg/29395927104/in/album-72157633683022206/" title="Tag-Cloud Wikipedia Geographiedidaktik"><img src="https://live.staticflickr.com/8418/29395927104_b22aaee582_c.jpg" width="792" height="506" alt="Tag-Cloud Wikipedia Geographiedidaktik"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Innerhalb dieses Arbeitsblockes erbringen Sie Ihre Studienleistung. Die Studienleistung besteht aus einem 15-minütigem Vortrag mit anschließender Diskussion in dem Sie Ihr Modell und die von Ihnen bearbeitete Fragestellung inklusive der Ergebnisse vorstellen und diskutieren. 
+Vorbereitend zu dieser Sitzung haben Sie den Text von [Peter & Nauss](https://link.springer.com/chapter/10.1007/978-3-658-29194-5_6) gelesen und daraus drei Leitideen exerpiert.  
 {: .notice--success}
 
 
