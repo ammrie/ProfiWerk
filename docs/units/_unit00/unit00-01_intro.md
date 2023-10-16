@@ -13,6 +13,7 @@ Willkommen im Profwerk! In dieser ersten Sitzung reflektiren Sie Ihre Motivation
 
 Bis zum nächsten Mal:
 Lesen Sie bitte den Text von [Peter & Nauss](https://link.springer.com/chapter/10.1007/978-3-658-29194-5_6) und exerpieren drei Leitideen. Das Exerpt laden Sie im dafür vorgesehenen Ordner im Ilias hoch. 
+{: .notice--success}
 
 
 
