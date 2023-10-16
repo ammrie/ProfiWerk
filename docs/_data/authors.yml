@@ -1,14 +1,15 @@
 
 # /_data/authors.yml
+  
+- doerfel:
+  name             : "Leoni Dörfel"
+  avatar           : "/assets/images/doerfel.png"
+  email            : "leoni.doerfel@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/staff-info?dn=flybxcsb9u"
+
 
 - ammoneit:
   name             : "Rieke Ammoneit"
   avatar           : "/assets/images/ammoneit.jpg"
   email            : "rieke.ammoneit@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/rieke-ammoneit"
-  
-- peter:
-  name             : "Carina Peter"
-  avatar           : "/assets/images/peter.png"
-  email            : "carina.peter@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/prof-dr-carina-peter"
+  home             : "https://www.uni-marburg.de/de/staff-info?dn=ji78w938a9"
