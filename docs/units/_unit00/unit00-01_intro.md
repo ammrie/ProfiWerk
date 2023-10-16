@@ -5,7 +5,7 @@ header:
   image: "/assets/images/title-splash.jpg"
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
 ---
-Willkommen im Modul
+Willkommen im Profwerk!
 <!--more-->
 
 Für diese Unit brauchen Sie:
