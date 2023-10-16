@@ -16,55 +16,30 @@ Nachdem Sie sich mit Ihrer persönlichen Motivation Geographielehrkaft zu werden
 Vorbereitend zu dieser Sitzung haben Sie den Text von [Peter & Nauss](https://link.springer.com/chapter/10.1007/978-3-658-29194-5_6) gelesen und daraus drei Leitideen exerpiert.  
 {: .notice--success}
 
+## Die Fachlichkeit der Geographie
+In dreier Gruppen sollen Sie zunächst Folgendes diskutieren:
+*  Welches Spannungsfeld besteht zwischen Schul- und Universitätsgeographie?
+*  Welche Herausforderungen ergeben sich bei der Definition des Fachgegenstand der Geographie bzw. des Schulfachs Geographie/Erdkunde?
 
-### Die NetLogo Modellierungssoftware
-Um arbeiten zu können benötigen Sie die Software NetLogo. Die freie Software können Sie in einer passenden Version für Ihr Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Die Installation ist für den Kurs sehr sinnvoll.
+Bereiten Sie eine möglichst kreative Präsentation Ihrer Diskussionsinhalte vor, die 5 Minuten nicht überschreitet. Sie können visuell, darstellend, haptisch oder akustisch arbeiten. 
 
-In Netlogo findet Sie unter "File" die "Models Library". Suchen Sie dort nach [Erosion](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Erosion.nlogo) und [Segregation](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Segregation.nlogo). Die zwei sehr unterschiedlichen  Modelle simulieren die Genese von räumlichen Strukturen. Entscheiden Sie sich in Ihrer Gruppe für ein Modell mit dem Sie arbeiten wollen.
-{: .notice--info}
+Sie haben 25 Minuten Zeit
 
+## Die Geographie und Lehrpersönlichkeit
+Reflektieren Sie im Rückgriff auf letzte Woche Ihre eigene Positionierung zur Fachlichkeit der Geographie. Wo verorten Sie sich in den Bildungszielen der Geographie? 
 
-### Schritt 1: das NetLogo Modell durchdringen
-Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. 
+Formulieren Sie einen Widerspruch zwischen Ihrer persönlichen Motivation Geographielehrkraft zu werden und der von Peter & Nauss skizzierten Fachlichkeit.
+Formulieren Sie ein Potenzial, das sich aus Ihrer persönlichen Motivation hinsichtlich der skizzierten Fachlichkeit ergibt.
 
-*Tabelle 1 ODD-Protokoll nach Railsback & Grimm (2019): Agent-Based and Individual-Based Modeling* 
+Bereiten Sie sich darauf vor in einem Blitzlich Widerspruch und Potenzial in einem Satz darzustellen.
 
-|               |Elements of the ODD protocol               |
-|---------------|-------------------------------------------|
-|Overview       |1. Purpose and patterns                    |
-|               |2. Entities, state variables, and scales   |
-|               |3. Process overview and scheduling         |
-|Design concepts|4. Design concepts                         |
-|               |* Basic principels                         |
-|               |* Emergence                                |
-|               |* Adaption                                 |
-|               |* Objectives                               |
-|               |* Learning                                 |
-|               |* Prediction                               |
-|               |* Sensing                                  |
-|               |* Interaction                              |
-|               |* Stochasticity                            |
-|               |* Collectives                              |
-|               |* Observation                              |
-|Details        |5. Initialization                          |
-|               |6. Input data                              |
-|               |7. Submodels                               |
+Sie können alleine oder in einer Kleingruppe arbeiten und haben 10 Minuten Zeit.
 
 
-Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
-
-Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) durchgearbeitet haben, sowie das NetLogo-Modell Ihrer Wahl anhand des ODD Protocols beschrieben haben (die Erläuterung des Protokolls sowie ein Beispiel finden sie [hier in Kapitel 3](https://ilias.uni-marburg.de/goto.php?target=file_2830364_download&client_id=UNIMR). Lassen Sie hierfür "Purpose and Patterns" zunächst aus. Außerdem sollen Sie eine erste Fragestellung formuliert haben.
-{: .notice--success}
-
-### Schritt 2: das NetLogo Modell anwenden
-Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. Die Darstellung der Anwendung und ihrer Ergebnisse ist Inhalt Ihrer Präsentation. 
-* Formulieren Sie hierfür eine Fragestellung, die sich mit dem Model sinnvoll untersuchen lässt. 
-* Entwickeln Sie ein Vorgehen, dass es Ihnen erlaubt auf Grundlage von reproduzierbar Daten die Fragestellung zu beantworten.
-* Interpretieren und diskutieren Sie Ihre Ergebnisse.
-
-Bis zur Sitzung am 10.05. sollen Sie Ihre Fragestellung überarbeitet haben. Zusätzlich sollen Sie in einem ersten Entwurf aufzeigen, wie sich Ihre Fragestellung unter Einsatz des enstprechenden Modells systematisch überprüfen lässt. Verschriftlichen Sie Ihre Fragestellung und methodischen Überlegungen und laden Sie Ihr Dokument bis Montagabend 20 Uhr im entsprechenden Ilias-Ordner hoch.  
-{: .notice--success}
-
-Bis zur Sitzung am 17.05. sollen Sie Ihre Fragestellung durch einen Bezug zur Echtwelt motivieren, sie sollen Ihre Ergebnisse interpretieren z.B. durch Bezugnahme auf Realraumbeispiele und die Grenzen des Models bezgl. Ihre Interpretation diskutieren. Sie können den Aufbau Ihrer gesamten Präsentation skizzieren indem Sie zusätzlich Ihre Methode darlegen, d.h. das Model vorstellen und Ihr Vorgehen offenlegen, und die Modellergebnis prägnant darstellen.
+Zum nächsten Mal:
+Erarbeiten Sie sich bitte die Texte von Köck, Werlen und Pohl. Beantworten Sie für alle Autoren die folgende Frage:
+* Wie definiert der Autor Raum?
+* Was ist die zentrale Argumentation des Artikels?
+Laden Sie Ihre Ausarbeitung im dafür vorgesehenen Ordner in Ilias hoch
 {: .notice--success}
 
