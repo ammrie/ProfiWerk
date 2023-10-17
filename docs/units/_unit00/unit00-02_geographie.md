@@ -17,7 +17,7 @@ Vorbereitend zu dieser Sitzung haben Sie den Text von [Peter & Nauss](https://li
 {: .notice--success}
 
 ## Die Fachlichkeit der Geographie
-In dreier Gruppen sollen Sie zunächst Folgendes diskutieren:
+In Dreiergruppen sollen Sie zunächst Folgendes diskutieren:
 *  Welches Spannungsfeld besteht zwischen Schul- und Universitätsgeographie?
 *  Welche Herausforderungen ergeben sich bei der Definition des Fachgegenstand der Geographie bzw. des Schulfachs Geographie/Erdkunde?
 
