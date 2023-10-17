@@ -7,7 +7,7 @@ header:
 ---
 
 
-Nachdem Sie sich mit Ihrer persönlichen Motivation Geographielehrkaft zu werden auseinandergesetzt haben. Stellen wir uns nun gemeinsam der Frage: Was ist Geographie? D.h. wir setzen uns mit der Fachlichkeit der Geographie zunächst in der Übersicht auseinander.
+Nachdem Sie sich mit Ihrer persönlichen Motivation Geographielehrkaft zu werden auseinandergesetzt haben, stellen wir uns nun gemeinsam der Frage: Was ist Geographie? D.h. wir setzen uns mit der Fachlichkeit der Geographie zunächst in der Übersicht auseinander.
 
 <!--more-->
 
