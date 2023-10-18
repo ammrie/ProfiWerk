@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Profiwerk
 feature_row_intro:
-- excerpt: Praxismodul im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
+- excerpt: Praxismodul im [Lehramtsstudium Erdkunde]((https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie)) an der Philipps Universität Marburg
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
